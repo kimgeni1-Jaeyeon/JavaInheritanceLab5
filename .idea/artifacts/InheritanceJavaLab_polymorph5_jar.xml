@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InheritanceJavaLab-polymorph5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InheritanceJavaLab_polymorph5_jar</output-path>
+    <root id="archive" name="InheritanceJavaLab-polymorph5.jar">
+      <element id="module-output" name="InheritanceJavaLab-polymorph5" />
+    </root>
+  </artifact>
+</component>
